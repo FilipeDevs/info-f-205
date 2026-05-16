@@ -1,0 +1,19 @@
+
+
+Besoin de ton aide pour comprendre mon cours de calcul formel et numérique. J'ai du temps limité donc on va se concentrer sur les exercices des années précédentes qui sont tombés à l'examen. On va aller chap par chap en commençant par la représentation machine, conditionnement et stabilité. Je t'ai passé en annexe:
+
+    anciennes questions
+
+    rappels de théorie pour les tps du chapitre en question
+
+    formulaire mise à disposition pendant l'examen
+
+
+Ce que je veux de toi :
+
+Expliquer les concepts, matière et points importants pour comprendre le chapitre et pour pouvoir faire les exercices. Quand c'est nécessaire mets a disposition des plots/graphes visuels pour bien comprendre le cours puisque certains concepts sont plus compliqués à illustrer par texte.
+
+
+Ensuite (apres que j'ai validé le truc d'avant) tu va me generer 
+
+
